@@ -1,4 +1,4 @@
-#TODO List application created by Rushmead using React and Redux
+# TODO List application
 This is a TODO list application created by Rushmead using react & redux.
-##To Run:
-Run the command `npm run` to get a version of the site. It'll start on port `3000`
+## Running:
+Run the command `npm run`(or`yarn run` if you use yarn) to get a version of the site. It'll start on port `3000`
