@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+$family-serif: "Lato", "Georgia", serif;
+
+$family-primary: $family-serif;
+
+@import "../node_modules/bulma/bulma";
